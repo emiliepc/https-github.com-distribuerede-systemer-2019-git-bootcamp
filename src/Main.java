@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         String myUsername = "emiliepc";
-        String myPassword = "1234567";
+        String myPassword = "7000";
 
         if(!User.validateUsername(myUsername)) {
             System.out.println("Username doesn't fit the rules. Please check the User class.");
